@@ -73,6 +73,7 @@
 
 ### 🤖 IA / LLM / Experiments
 
+- 💻 **Template-Laravel-IA - https://github.com/PortilloDev/laravel-ia-template
 - 🧠 **ia-lab** – https://github.com/PortilloDev/ia-lab  
 - 🧰 **llm-engineer-toolkit** – https://github.com/PortilloDev/llm-engineer-toolkit  
 - 🧰 **llm-engineer-toolkit (fork)** – https://github.com/KalyanKS-NLP/llm-engineer-toolkit  
