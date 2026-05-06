@@ -34,7 +34,7 @@
 - 🧠 **solid-api** – https://github.com/PortilloDev/solid-api  
 - 🧩 **microservicios-php** – https://github.com/PortilloDev/microservicios-php  
 - 🧠 **designPatternsInPHP** – https://github.com/PortilloDev/designPatternsInPHP
-- 🧰 **spec-driven-development-system** - https://github.com/PortilloDev/spec-driven-development-framework/issues
+- 🧰 **spec-driven-development-system** - https://github.com/PortilloDev/spec-driven-development-framework
 
 ---
 
